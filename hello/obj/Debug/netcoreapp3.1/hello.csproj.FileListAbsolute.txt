@@ -1,0 +1,11 @@
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello.deps.json
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello.runtimeconfig.json
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello.runtimeconfig.dev.json
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello.dll
+/Users/johnrogala/flatirons/testing/csharp/hello/bin/Debug/netcoreapp3.1/hello.pdb
+/Users/johnrogala/flatirons/testing/csharp/hello/obj/Debug/netcoreapp3.1/hello.csprojAssemblyReference.cache
+/Users/johnrogala/flatirons/testing/csharp/hello/obj/Debug/netcoreapp3.1/hello.AssemblyInfoInputs.cache
+/Users/johnrogala/flatirons/testing/csharp/hello/obj/Debug/netcoreapp3.1/hello.AssemblyInfo.cs
+/Users/johnrogala/flatirons/testing/csharp/hello/obj/Debug/netcoreapp3.1/hello.dll
+/Users/johnrogala/flatirons/testing/csharp/hello/obj/Debug/netcoreapp3.1/hello.pdb
